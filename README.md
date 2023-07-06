@@ -22,9 +22,6 @@
 ## Front end web
 Pré-requisitos: npm / yarn
 
-# entrar na pasta do projeto front end web
-cd front-web
-
 # instalar dependências
 npm install
 
